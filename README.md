@@ -1,9 +1,9 @@
 # Flask_Blog
-
-Web application similar to a blog using Flask and Python.
-The user can:
--Register
--Login
--Edit their username/email address/picture
--Create new posts
--Read other users posts
+</br>
+</br>Web application similar to a blog using Flask and Python.
+</br>The user can:
+</br>-Register
+</br>-Login
+</br>-Edit their username/email address/picture
+</br>-Create new posts
+</br>-Read other users posts
