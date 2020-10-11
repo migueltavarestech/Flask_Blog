@@ -1,6 +1,6 @@
-# Flask_Blog
+# Portfolio Social Media
 </br>
-</br>Web application similar to a blog using Flask and Python.
+</br>Web application similar to a social media platform using Flask and Python.
 </br>The user can:
 </br>-Register
 </br>-Login
